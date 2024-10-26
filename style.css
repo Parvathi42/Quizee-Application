@@ -430,7 +430,6 @@ footer .next-btn:hover{
   }
 
   .result-box .buttons {
-      flex-direction: column;
       gap: 10px;
   }
 
